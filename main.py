@@ -310,7 +310,7 @@ def image_to_video(input_video_path, output_image_root, output_video_root):
 
 @count_time
 def main():
-    root = '/home/v-yifangxu/Desktop/VST/data'
+    root = './data'
 
     input_video_root = os.path.join(root, 'input')
     if not os.path.exists(input_video_root):
