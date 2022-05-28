@@ -1,0 +1,6 @@
+SOD : 0.0976 mae || 0.7036 max-fm || 0.6880 mean-fm || 0.8226 max-Emeasure || 0.8070 mean-Emeasure || 0.7743 S-measure || 0.7044 AP || 0.9108 AUC.
+DUT-O : 0.0582 mae || 0.8006 max-fm || 0.7746 mean-fm || 0.8880 max-Emeasure || 0.8718 mean-Emeasure || 0.8504 S-measure || 0.8151 AP || 0.9489 AUC.
+DUTS-TE : 0.0372 mae || 0.8773 max-fm || 0.8453 mean-fm || 0.9386 max-Emeasure || 0.9193 mean-Emeasure || 0.8962 S-measure || 0.9092 AP || 0.9765 AUC.
+ECSSD : 0.0338 mae || 0.9439 max-fm || 0.9193 mean-fm || 0.9639 max-Emeasure || 0.9514 mean-Emeasure || 0.9320 S-measure || 0.9687 AP || 0.9862 AUC.
+HKU-IS : 0.0297 mae || 0.9367 max-fm || 0.9074 mean-fm || 0.9677 max-Emeasure || 0.9527 mean-Emeasure || 0.9283 S-measure || 0.9656 AP || 0.9873 AUC.
+PASCAL-S : 0.0675 mae || 0.8457 max-fm || 0.8212 mean-fm || 0.8968 max-Emeasure || 0.8846 mean-Emeasure || nan S-measure || 0.8492 AP || 0.9327 AUC.
