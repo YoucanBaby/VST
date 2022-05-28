@@ -4,6 +4,16 @@
 
 More details please see [VST Github code](https://github.com/nnizhang/VST) and [VST paper](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=Visual+Saliency+Transformer&btnG=).
 
+
+![1.png](pic/1.png)
+
+![2.png](pic/2.png)
+
+![3.png](pic/3.png)
+
+![4.png](pic/4.png)
+
+
 ## Requirement
 
 ```sh
@@ -82,7 +92,7 @@ More details please see [baidu pan](https://pan.baidu.com/s/14BWB2OYqsRxTJJ4h81u
 
 ## Results
 
-![eazy_2](https://xyf-image.oss-cn-beijing.aliyuncs.com/img/202205282130843.gif)
+![res.gif](pic/res.gif)
 
 ## Acknowledgement
 
