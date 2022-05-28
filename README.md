@@ -92,6 +92,16 @@ More details please see [baidu pan](https://pan.baidu.com/s/14BWB2OYqsRxTJJ4h81u
 
 ## Results
 
+### input
+
+![data/input/eazy_2.gif](data/input/eazy_2.gif)
+
+### SOD map
+
+![data/res/eazy_2/eazy_2.gif](data/res/eazy_2/eazy_2.gif)
+
+### output
+
 ![res.gif](pic/res.gif)
 
 ## Acknowledgement
