@@ -106,7 +106,7 @@ More details please see [baidu pan](https://pan.baidu.com/s/14BWB2OYqsRxTJJ4h81u
 
 ## Summary and Discussion
 
-![微信截图_20220602135805](https://xyf-image.oss-cn-beijing.aliyuncs.com/img/202206021413381.png)
+![Summary and Discussion](pic/Summary%20and%20Discussion.png)
 
 ## Acknowledgement
 
