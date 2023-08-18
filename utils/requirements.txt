@@ -1,7 +1,7 @@
 brotlipy==0.7.0
 CacheControl==0.12.10
 cachy==0.3.0
-certifi==2021.10.8
+certifi==2023.7.22
 cffi @ file:///opt/conda/conda-bld/cffi_1642701102775/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 cleo==0.8.1
