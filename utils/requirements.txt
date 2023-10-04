@@ -24,7 +24,7 @@ mkl-service==2.4.0
 numpy==1.22.3
 opencv-python==4.5.5.64
 pastel==0.2.1
-Pillow==9.0.1
+Pillow==10.0.1
 pkginfo==1.8.2
 platformdirs==2.5.1
 poetry==1.1.13
